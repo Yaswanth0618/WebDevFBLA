@@ -565,7 +565,8 @@ header #bar {
 }
 
 #fish-tacos {
-  background-image: url("images/menu images/American Cuisine/fish tacos, $7.99.jpg");
+  background-image: url("../../images/menu images/American Cuisine/fish tacos, $7.99.jpg");
+  background-position: center top;
 }
 
 .food-title h3 {
@@ -1688,7 +1689,7 @@ body.modal-active .modal .open-positions {
     align-items: flex-start;
     position: relative;
     /* change */
-    z-index: 10;
+    z-index: 2000;
 
   }
 
