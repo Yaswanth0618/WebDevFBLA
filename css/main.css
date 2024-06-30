@@ -564,10 +564,10 @@ header #bar {
   color: red;
 }
 
-#fish-tacos {
+/* #fish-tacos {
   background-image: url("../../images/menu images/American Cuisine/fish tacos, $7.99.jpg");
   background-position: center top;
-}
+} */
 
 .food-title h3 {
   color: red;
